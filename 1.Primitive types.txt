@@ -1,4 +1,4 @@
-Built-in types
+Primitive types
 
 Main root
 
@@ -155,4 +155,3 @@ Web Components
 
 <slot>
 <template>
-
