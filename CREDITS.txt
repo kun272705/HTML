@@ -1,4 +1,4 @@
 CREDITS
 
-* HTML: https://developer.mozilla.org/en-US/docs/Web/HTML
+1. HTML: https://developer.mozilla.org/en-US/docs/Web/HTML
 
