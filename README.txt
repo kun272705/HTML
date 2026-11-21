@@ -1,4 +1,4 @@
 README
 
-《HTML》是一本摘要 HTML 編程語言的筆記本。
+《HTML》是一本提綱 HTML 編程語言的筆記本。
 
